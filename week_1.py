@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# This comment is testing how git commits will work
 """
 COMP0088 lab exercises for week 1.
 
